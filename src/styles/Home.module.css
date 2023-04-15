@@ -39,6 +39,14 @@
   font-family: var(--font-mono);
 }
 
+.icon svg {
+  fill: #78787878
+}
+
+.icon svg:hover {
+  fill: #787878;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(25%, auto));

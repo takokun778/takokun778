@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+footer {
+  color: #555555;
+  text-align: center;
+}
