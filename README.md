@@ -2,7 +2,7 @@
 
 # GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takokun778&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takokun778&layout=compact&theme=onedark)](https://github.com/takokun778/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takokun778&layout=compact&theme=onedark&hide=typescript)](https://github.com/takokun778/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=takokun778&theme=onedark)](https://github.com/takokun778/github-profile-trophy)
 
 # Article
