@@ -61,6 +61,7 @@ export default function Home() {
               Zenn <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
+              <a href="https://zenn.dev/takokun"><img src="https://badgen.org/img/zenn/takokun/likes?style=plastic" alt="Likes" /></a>
             </p>
           </a>
 
@@ -77,6 +78,7 @@ export default function Home() {
               Qiita <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
+              <a href="https://qiita.com/takokun778"><img src="https://badgen.org/img/qiita/takokun778/contributions?style=plastic" alt="Contributions" /></a>
             </p>
           </a>
         </div>
